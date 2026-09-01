@@ -19,6 +19,8 @@ Painel analítico de indicadores públicos do SUS (SIH, SIA e CNES), construído
 - João Pedro Silva Schinato — RM 569702 — Oracle Autonomous Database
 - Matheus Raul Silvestre dos Santos — RM 572291 — Análise exploratória e camada visual
 - Thalles William Ribeiro de Souza — RM 571201 — Oracle APEX e camada de consumo
+- Paulo Moraes de Lima — RM 573329 — Oracle APEX e camada de consumo
+
 
 ## O problema
 
